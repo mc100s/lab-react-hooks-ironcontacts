@@ -11,3 +11,20 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+h1 {
+  text-align: center;
+}
+
+table {
+  margin: auto;
+}
+
+.contact-picture {
+  height: 60px;
+}
+
+.actions {
+  text-align: center;
+  margin: 20px;
+}
